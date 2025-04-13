@@ -1,5 +1,3 @@
-# GDKeiken
-
 WIP
 
 <h2 align="center">Tech Knowledge</h2>
